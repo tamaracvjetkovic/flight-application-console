@@ -1,0 +1,19 @@
+aa11|srb|bih|12:23|14:57|2023-03-13 12:23:00|2023-03-20 15:01:00|False|Vukovic|[0, 2, 3]|{'id': 1, 'naziv': 'BAS', 'broj_redova': 3, 'pozicije_sedista': ['A', 'B', 'S']}|232.15
+bb22|bih|srb|23:32|23:59|2023-02-10 08:00:00|2023-02-15 15:00:00|False|Vukovic|[0, 5, 1, 2]|{'id': 2, 'naziv': 'ATT', 'broj_redova': 4, 'pozicije_sedista': ['A']}|100.23
+cc33|srb|grk|07:00|09:00|2023-01-20 06:00:00|2023-01-26 07:00:00|False|IgorTravel|[0, 6, 5, 3]|{'id': 3, 'naziv': 'BAC', 'broj_redova': 2, 'pozicije_sedista': ['A', 'B', 'D', 'R']}|230.0
+dd44|grk|aus|07:30|01:20|2023-01-01 07:20:00|2023-01-20 06:06:06|False|AustraliaTravels|[0, 4, 3, 2]|{'id': 4, 'naziv': 'JJJ', 'broj_redova': 2, 'pozicije_sedista': ['A', 'A', 'B', 'C', 'C']}|300.23
+ee55|aus|amr|08:30|12:20|2023-04-10 00:00:00|2023-04-13 00:00:00|False|AmericaUber|[0, 1, 2, 3]|{'id': 2, 'naziv': 'ATT', 'broj_redova': 4, 'pozicije_sedista': ['A']}|200.35
+ff66|amr|lat|20:00|23:23|2023-04-02 12:00:00|2023-04-10 12:00:00|False|AustraliaCars|[0, 4, 5]|{'id': 5, 'naziv': 'UUR', 'broj_redova': 3, 'pozicije_sedista': ['A', 'T']}|200.11
+gg77|lat|bih|23:30|05:30|2023-04-10 03:00:00|2023-04-13 23:00:00|False|BosniaPoorTravel|[0, 1, 2, 3, 4, 5, 6]|{'id': 1, 'naziv': 'BAS', 'broj_redova': 3, 'pozicije_sedista': ['A', 'B', 'S']}|300.45
+hh88|bih|swi|05:40|08:30|2023-04-10 12:00:00|2023-04-16 12:00:00|False|Vukovic|[0, 1, 2, 3, 4, 5, 6]|{'id': 2, 'naziv': 'ATT', 'broj_redova': 4, 'pozicije_sedista': ['A']}|100.0
+ii99|grk|aus|14:23|17:30|2023-02-10 12:00:00|2023-02-15 20:00:00|False|AustraLia|[0, 1, 2, 3, 5]|{'id': 5, 'naziv': 'UUR', 'broj_redova': 3, 'pozicije_sedista': ['A', 'T']}|231.0
+jj11|grk|aus|15:23|20:00|2023-01-10 08:00:00|2023-01-25 07:00:00|False|AustraliaCarriage|[2, 3, 4, 6]|{'id': 3, 'naziv': 'BAC', 'broj_redova': 2, 'pozicije_sedista': ['A', 'B', 'D', 'R']}|255.55
+kk22|grk|aus|05:00|10:00|2023-01-10 05:00:00|2023-01-22 05:00:00|False|AustraLia|[0, 1, 2, 3, 4, 6]|{'id': 4, 'naziv': 'JJJ', 'broj_redova': 2, 'pozicije_sedista': ['A', 'A', 'B', 'C', 'C']}|323.05
+ll33|aus|srb|12:00|16:00|2023-02-01 05:00:00|2023-02-10 05:00:00|False|SrbijaPrevoz|[1, 2, 3, 4, 5, 6]|{'id': 5, 'naziv': 'UUR', 'broj_redova': 3, 'pozicije_sedista': ['A', 'T']}|222.12
+mm44|srb|aus|12:45|13:34|2023-03-03 00:00:00|2023-03-05 00:00:00|False|Australiaaa|[0, 1, 2, 3, 4, 5, 6]|{'id': 2, 'naziv': 'ATT', 'broj_redova': 4, 'pozicije_sedista': ['A']}|2323.2
+nn55|aus|tai|13:40|17:25|2023-03-04 00:00:00|2023-03-06 00:00:00|False|ThailandOpenTravel|[0, 1, 2, 3, 4, 5, 6]|{'id': 5, 'naziv': 'UUR', 'broj_redova': 3, 'pozicije_sedista': ['A', 'T']}|231.2
+oo66|tai|grk|17:50|20:00|2023-03-05 00:00:00|2023-03-08 00:00:00|False|Greek|[0, 1, 2, 3, 4, 5, 6]|{'id': 5, 'naziv': 'UUR', 'broj_redova': 3, 'pozicije_sedista': ['A', 'T']}|190.55
+pp77|tai|grk|08:00|09:00|2023-02-06 00:00:00|2023-02-07 00:00:00|False|Tai|[0, 1, 2, 3, 4, 5, 6]|{'id': 2, 'naziv': 'ATT', 'broj_redova': 4, 'pozicije_sedista': ['A']}|232.33
+qq88|grk|srb|09:30|10:00|2023-02-06 00:00:00|2023-02-07 00:00:00|False|SerbiaGood|[0, 1, 2, 3, 4, 5, 6]|{'id': 2, 'naziv': 'ATT', 'broj_redova': 4, 'pozicije_sedista': ['A']}|222.22
+rr99|srb|aus|10:30|13:00|2023-02-06 00:00:00|2023-02-07 00:00:00|False|KKkk|[0, 1, 2, 3, 4, 5, 6]|{'id': 5, 'naziv': 'UUR', 'broj_redova': 3, 'pozicije_sedista': ['A', 'T']}|300.0
+ss11|rus|srb|12:30|14:30|2023-02-11 05:00:00|2023-02-16 05:00:00|False|RussiaTravel|[0, 1, 2, 4]|{'id': 5, 'naziv': 'UUR', 'broj_redova': 3, 'pozicije_sedista': ['A', 'T']}|200.5
