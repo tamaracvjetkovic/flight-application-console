@@ -2,13 +2,17 @@
 
 A console application for flight management.
 
------
+---
 
 This was the first university project for the course "Programming Basics", taken in the 1st semester of the Software Engineering and Information Technologies program.
 
+The ``goal`` of the project was to:
+- become familiar with Python,
+- apply programming basics
+#
 Technologies used: 
 - ``Python``
-
+#
 Date: February, 2023.
 
 ---
