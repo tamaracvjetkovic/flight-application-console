@@ -1,20 +1,26 @@
-# Projekat OP 2022
+# Flight Application ✈️
 
-Ovaj repozitorijum sadrži kostur projekat i testove za predmet Osnove programiranja u školskoj godini 2022/23.
+A console application for flight management.
 
-## Struktura projekta
-- Struktura projekta mora strogo pratiti kostur projekta koji je dostupan online.
-- Definicija funkcija iz kostura projekta mora ostati nepromenjena. 
-- Po potrebi je moguće dodavati pomoćne funkcije, strukture podataka, module, promenljive itd.
-Deo ocenjivanja je automatizovan i odstupanje od strukture projekta može dovesti do gubljenja bodova.
+-----
 
-## Testovi
-Broj osvojenih bodova na projektu zavisi od količine testova koji prođu. Svaki test testira određenu
-funkcionalnost. Ukupan rezultat pokazuje koliko je bodova moguće dobiti na odbrani: projekat se svakako
-mora odbraniti pred asistentom.
-Tabelu bodovanja možete videti u specifikaciji projekta.
+This was the first university project for the course "Programming Basics", taken in the 1st semester of the Software Engineering and Information Technologies program.
 
-Testovi se nalaze u paketu test. Pokretanje testova je moguće na tri načina:
-1. Svi testovi: desni klik na test ili paket fajl > Run (Debug) Pythin tests in...
-2. Pojedinačni testovi: desni klik na funkciju sa individualnim testom > Run (Debug) Pythin tests in...
-3. Svi testovi (CLI): Pozivom `python -m unittest` u komandnoj liniji pozicioniranoj u korenu projekta. **Za krajnje ocenjivanje se koristi ovaj metod.**
+Technologies used: 
+- ``Python``
+
+Date: February, 2023.
+
+---
+
+# How does it work? ❓
+- you can choose an option from the menu - list and search flights, create or edit flights, etc..
+
+---
+
+# Author's Note 📝
+
+This was my first project ever, both personal and academic. 
+
+The code is messy, clean code principles are non-existent, but I gave it my all to build the best application I could with the skills I had at that time.
+I even made a custom colored menu for each user role, using the colored library for python (for example, VIP⭐ users see their menu options in gold) :)
